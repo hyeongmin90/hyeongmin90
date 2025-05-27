@@ -1,4 +1,4 @@
-#👋 Hi! I'm hyeongmin Park
+# 👋 Hi! I'm hyeongmin Park
 
 
 BOJ
