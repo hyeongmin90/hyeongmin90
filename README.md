@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
 <div/>
 
-BOJ
----
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsby9000)](https://solved.ac/nsby9000)
+<div align=left> 
 
+# BOJ
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsby9000)](https://solved.ac/nsby9000)
+
+<div/>
