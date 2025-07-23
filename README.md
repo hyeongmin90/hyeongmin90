@@ -1,5 +1,5 @@
 # 👋 Hi! I'm hyeongmin Park
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyeongmin90&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyeongmin90&fontSize=90)
 ## Language
 <div>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
