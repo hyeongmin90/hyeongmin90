@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
-  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/apache maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
+  
  
 
   ## ML/DL
@@ -57,5 +59,13 @@
 
 # BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsby9000)](https://solved.ac/nsby9000)
+
+# Active
+|기간|활동|
+|-----|--------|
+|2019.03 - 2026.02| 대학 - 산업공학 재학(졸업 예정)|
+|2024.07.15 - 2024.08.09| Naver Boost Camp Web Mobile Challenge (Android)|
+|2025.03.25 - 2025.09.09| KT AIVLE School |
+|2025.07 ~  | 오픈소스 개발자 대회 |
 
 <div/>
