@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
   <img src="https://img.shields.io/badge/apache maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain Badge">
   <br/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
