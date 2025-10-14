@@ -74,3 +74,6 @@
 |2025.07.04 ~  | [2025 오픈소스 개발자 대회](https://www.oss.kr/dev_competition) | [investica](https://github.com/investica-aivle/investica) |
 
 <div/>
+
+
+# [Portfolio](https://holly-pound-0b0.notion.site/?source=copy_link)
