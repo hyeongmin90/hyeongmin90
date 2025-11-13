@@ -71,7 +71,7 @@
 |2019.03 - 2026.02| 대학 - 산업공학 재학(졸업 예정)| |
 |2024.07.15 - 2024.08.09| Naver Boost Camp Web Mobile Challenge (Android)| |
 |2025.03.25 - 2025.09.09| KT AIVLE School |[checkar](https://github.com/bigproject5)|
-|2025.07.04 ~  | [2025 오픈소스 개발자 대회](https://www.oss.kr/dev_competition) | [investica](https://github.com/investica-aivle/investica) |
+|2025.07.04 - 2025.11.11| [2025 오픈소스 개발자 대회](https://www.oss.kr/dev_competition) | [investica](https://github.com/investica-aivle/investica) |
 
 <div/>
 
