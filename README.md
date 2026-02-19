@@ -68,7 +68,7 @@
 # Active
 |기간|활동| github |
 |-----|--------|---|
-|2019.03 - 2026.02| 대학 - 산업공학 학사(졸업 예정)| |
+|2019.03 - 2026.02| 대학 - 산업공학 학사 |
 |2024.07.15 - 2024.08.09| Naver Boost Camp Web Mobile Challenge (Android)| |
 |2025.03.25 - 2025.09.09| KT AIVLE School |[checkar](https://github.com/bigproject5)|
 |2025.07.04 - 2025.12.05| 2025 오픈소스 개발자 대회 | [investica](https://github.com/investica-aivle/investica) |
